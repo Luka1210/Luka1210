@@ -8,7 +8,7 @@ I am a frontend developer who wants to be full-stack developer.
 
 * 🌍  I'm based in Belgrade
 * ✉️  You can contact me at [lukahobbgd@gmail.com](mailto:lukahobbgd@gmail.com)
-* 🧠  I'm currently learning PHP/AJAX
+* 🧠  Programming languages ​​that I know: HTML,CSS, JavaScript, React, Redux(redux-toolkit)
 * 🤝  I'm open to collaborating on Projects
 
 ### Skills
