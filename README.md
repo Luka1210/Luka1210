@@ -2,7 +2,7 @@
 <h3 align="center">A passionate frontend developer from Serbia</h3>
 
 - 🔭 I am currently looking for a job
-
+- 👨‍💻 All of my projects are available on my github
 - 📫 H You can contact me at **lukahobbgd@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
