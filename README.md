@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Luka Nikolic</h1>
 <h3 align="center">A passionate frontend developer from Serbia</h3>
 
-- 🧠 Programming languages ​​that I know: **HTML,CSS, JavaScript, React, Redux(redux-toolkit), NodeJS**
+- - 🔭 I am currently looking for a job
 
 - 📫 H You can contact me at **lukahobbgd@gmail.com**
 
